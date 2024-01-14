@@ -1,0 +1,1 @@
+bcp AdventureWorksDW2019.dbo.CUSTOMERS_304314_BCP in "D:\projekty\github\bdp2agh\cw10\PROCESSED\Exported_Customers.csv" -T -f  "D:\projekty\github\bdp2agh\cw10\format.fmt"
